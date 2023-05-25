@@ -17,7 +17,7 @@
 # def greet_employee(first_name, last_name):
 #     print ("Welcome ! You are logged in", first_name, last_name)
 # greet_employee("Varinder", "Kumar")
-
+#rrgtgggtg
 
 # Return function - a python statement that executes inside a function and sends inforamtion back to the function call.
 
@@ -37,7 +37,3 @@
 
 # print(sorted(alp))
 
-from bs4 import BeautifulSoup
-soup = BeautifulSoup(html_doc, 'html.parser')
-
-print(soup)
